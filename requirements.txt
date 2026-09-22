@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+
+pymupdf
+
+sentence-transformers
+torch
+transformers
+
+faiss-cpu
+numpy
+
+pydantic
+
+google-genai
